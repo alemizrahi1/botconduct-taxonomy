@@ -2,7 +2,7 @@
 
 A receiver-side, versioned vocabulary for describing the observed conduct of automated agents on web properties.
 
-**Author:** Alejandro Mizrahi · BotConduct Observatory
+**Author:** Rafael Mizrahi & Alejandro Mizrahi · BotConduct Observatory
 **Version:** 1.0 · June 2026
 **Canonical URL:** [botconduct.org/conduct-taxonomy](https://botconduct.org/conduct-taxonomy)
 **License:** [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)

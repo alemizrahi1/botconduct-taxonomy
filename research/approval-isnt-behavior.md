@@ -1,6 +1,6 @@
 # Approval Isn't Behavior
 
-**Alejandro Mizrahi · Research Notes · BotConduct Observatory**
+**Rafael Mizrahi & Alejandro Mizrahi · Research Notes · BotConduct Observatory**
 *Launch note for the BotConduct Conduct Taxonomy v1.0*
 
 ---

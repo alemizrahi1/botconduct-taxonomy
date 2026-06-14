@@ -1,7 +1,7 @@
 # BotConduct Conduct Taxonomy
 
 **Version 1.0 — June 2026**
-**Alejandro Mizrahi · BotConduct Observatory · botconduct.org**
+**Rafael Mizrahi & Alejandro Mizrahi · BotConduct Observatory · botconduct.org**
 **Canonical URL:** https://botconduct.org/conduct-taxonomy
 
 ---

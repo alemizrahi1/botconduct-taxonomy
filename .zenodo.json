@@ -1,0 +1,22 @@
+{
+  "title": "BotConduct Conduct Taxonomy v1.0",
+  "description": "A receiver-side, versioned vocabulary for describing the observed conduct of automated agents on web properties. Classifies each observed session along three independent dimensions: declared identity, observed conduct, and persistence. Descriptive, not judicial.",
+  "version": "1.0",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "creators": [
+    { "name": "Mizrahi, Rafael", "affiliation": "BotConduct Observatory" },
+    { "name": "Mizrahi, Alejandro", "affiliation": "BotConduct Observatory" }
+  ],
+  "keywords": [
+    "receiver-side observation",
+    "agent conduct",
+    "conduct taxonomy",
+    "autonomous agents",
+    "AI agent governance",
+    "observability",
+    "evidence"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open"
+}

@@ -9,7 +9,7 @@ Nearly every mechanism the autonomous web has produced so far answers one of two
 
 Neither answers the question a property owner actually has: **what did this agent do?**
 
-That gap is not an oversight. It is structural. Identity is declared by the agent. Permission is granted by the owner. But conduct is *observed* — and observation only happens on the receiving side. No registry can see it. No policy can produce it. The only party in a position to describe an agent's behavior is the property that received it.
+There is a long history of bot classification — botnet taxonomies, social-bot detection, identity schemes for automated traffic. But that work classifies bots in order to *detect and block* them, or to establish *who an agent claims to be*. We could not find a shared, versioned vocabulary for the *conduct itself* — observed from the receiving side, held separate from identity and from permission, and meant to be cited rather than to trigger a block. That gap is not an oversight. It is structural. Identity is declared by the agent. Permission is granted by the owner. But conduct is *observed* — and observation only happens on the receiving side. No registry can see it. No policy can produce it. The only party in a position to describe an agent's behavior is the property that received it.
 
 Today we are publishing the vocabulary we use to describe it: the **BotConduct Conduct Taxonomy v1.0** — a receiver-side, versioned classification of observed automated conduct.
 
